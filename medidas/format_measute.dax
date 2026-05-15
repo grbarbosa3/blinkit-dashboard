@@ -1,0 +1,9 @@
+format_measure = 
+SWITCH(
+    SELECTEDVALUE('Parameter Measures'[Parameter Measures]),
+    "Total_Sales", "R$ #,0,.0 K",
+    "Avg_Sales", "R$ #,0",
+    "Numb_Items", "#,0",
+    "Avg_Rating", "0.0",
+    "#,0"
+)
