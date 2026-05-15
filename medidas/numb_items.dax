@@ -1,0 +1,1 @@
+Numb_Items = COUNT('Blinkit Grocery Data'[Item Identifier]) 
