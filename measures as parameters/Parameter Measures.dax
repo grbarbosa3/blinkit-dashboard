@@ -1,0 +1,6 @@
+Parameter Measures = {
+    ("Total Sales", NAMEOF('Measures_Table'[Total_Sales]), 0),
+    ("Avg Sales", NAMEOF('Measures_Table'[Avg_Sales]), 1),
+    ("Nº of Items", NAMEOF('Measures_Table'[Numb_Items]), 2),
+    ("Avg Rating", NAMEOF('Measures_Table'[Avg_Rating]), 3)
+}
