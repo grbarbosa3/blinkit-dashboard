@@ -1,0 +1,1 @@
+Total_Sales = SUM('Blinkit Grocery Data'[Sales])
